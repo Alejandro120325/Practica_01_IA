@@ -11,6 +11,6 @@ Práctica de nivelación de Python y NumPy realizada en Google Colab.
 
 ## Archivo principal
 
-`taller_python_numpy_resuelto_explicado.ipynb`
+`Practica_01_NumPy.ipynb`
 
 El notebook contiene explicaciones en Markdown, código comentado y la resolución de los ejercicios.
